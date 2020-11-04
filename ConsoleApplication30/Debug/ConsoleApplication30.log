@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  program.cpp
+d:\2011424_lab02\lab02_bai01_hamdongian\consoleapplication30\program.cpp(22): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  ConsoleApplication30.vcxproj -> D:\2011424_Lab02\Lab02_Bai01_HamDonGian\Debug\ConsoleApplication30.exe
+  ConsoleApplication30.vcxproj -> D:\2011424_Lab02\Lab02_Bai01_HamDonGian\Debug\ConsoleApplication30.pdb (Full PDB)
